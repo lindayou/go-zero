@@ -1,0 +1,5 @@
+packge main
+
+func ()main(){
+  fmt.printLn("that's a new reponsity for newfish")
+}
